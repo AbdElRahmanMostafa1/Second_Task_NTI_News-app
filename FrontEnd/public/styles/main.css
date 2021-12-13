@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(0, 0, 0, 0.808);
+}
+.card {
+  min-height: 430.88px;
+  max-height: 700.66px;
+}
+
+.card-body {
+  min-height: 232px;
+}
+
+.card-body img {
+  min-height: 233px;
+}
+
+.header-p {
+  color: white;
+  text-align: center;
+  margin: 0;
+  transition: 5s;
+  /* position: absolute; */
+  /* animation-name: para;
+  animation-duration: s;
+  animation-iteration-count: infinite; */
+}
+
+/*
+@keyframes para {
+  0% {
+    left: 0;
+    top: 0;
+  }
+  100% {
+    right: 0;
+    top: 0;
+  }
+} */
